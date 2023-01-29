@@ -1,0 +1,27 @@
+[submodule "AlphaPose"]
+	path = AlphaPose
+	url = https://github.com/MVIG-SJTU/AlphaPose
+[submodule "deep-high-resolution-net.pytorch"]
+	url = https://github.com/leoxiaobin/deep-high-resolution-net.pytorch.git
+[submodule "EfficientPose"]
+	url = https://github.com/hustvl/EfficientPose.git
+[submodule "OmniPose"]
+	url = https://github.com/bmartacho/OmniPose.git
+[submodule "RMPPE_2"]
+	url = https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation.git
+[submodule "RSN"]
+	url = https://github.com/caiyuanhao1998/RSN.git
+[submodule "UniPose"]
+	url = https://github.com/bmartacho/UniPose.git
+[submodule "ViTPose"]
+	url = https://github.com/ViTAE-Transformer/ViTPose.git
+[submodule "caffe2-pose-estimation"]
+	url = https://github.com/eddieyi/caffe2-pose-estimation.git
+[submodule "mmcv"]
+	url = https://github.com/open-mmlab/mmcv.git
+[submodule "openpose"]
+	url = https://github.com/CMU-Perceptual-Computing-Lab/openpose.git
+[submodule "pose-ae-train"]
+	url = https://github.com/princeton-vl/pose-ae-train.git
+[submodule "pytorch_stacked_hourglass"]
+	url = https://github.com/princeton-vl/pytorch_stacked_hourglass.git
